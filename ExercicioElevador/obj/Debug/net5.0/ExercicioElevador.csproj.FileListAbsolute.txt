@@ -1,0 +1,16 @@
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/bin/Debug/net5.0/ExercicioElevador
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/bin/Debug/net5.0/ExercicioElevador.deps.json
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/bin/Debug/net5.0/ExercicioElevador.runtimeconfig.json
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/bin/Debug/net5.0/ExercicioElevador.runtimeconfig.dev.json
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/bin/Debug/net5.0/ExercicioElevador.dll
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/bin/Debug/net5.0/ref/ExercicioElevador.dll
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/bin/Debug/net5.0/ExercicioElevador.pdb
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/obj/Debug/net5.0/ExercicioElevador.csproj.AssemblyReference.cache
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/obj/Debug/net5.0/ExercicioElevador.GeneratedMSBuildEditorConfig.editorconfig
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/obj/Debug/net5.0/ExercicioElevador.AssemblyInfoInputs.cache
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/obj/Debug/net5.0/ExercicioElevador.AssemblyInfo.cs
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/obj/Debug/net5.0/ExercicioElevador.csproj.CoreCompileInputs.cache
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/obj/Debug/net5.0/ExercicioElevador.dll
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/obj/Debug/net5.0/ref/ExercicioElevador.dll
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/obj/Debug/net5.0/ExercicioElevador.pdb
+/home/strongtech/Desktop/Exercicios_Classes/ExercicioElevador/obj/Debug/net5.0/ExercicioElevador.genruntimeconfig.cache

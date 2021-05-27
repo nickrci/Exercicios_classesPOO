@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/strongtech/.dotnet/store/|arch|/|tfm|",
+      "/home/strongtech/.nuget/packages"
+    ]
+  }
+}
