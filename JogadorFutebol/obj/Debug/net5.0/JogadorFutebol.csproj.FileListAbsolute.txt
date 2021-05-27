@@ -1,0 +1,16 @@
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/obj/Debug/net5.0/JogadorFutebol.csproj.AssemblyReference.cache
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/obj/Debug/net5.0/JogadorFutebol.GeneratedMSBuildEditorConfig.editorconfig
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/obj/Debug/net5.0/JogadorFutebol.AssemblyInfoInputs.cache
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/obj/Debug/net5.0/JogadorFutebol.AssemblyInfo.cs
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/obj/Debug/net5.0/JogadorFutebol.csproj.CoreCompileInputs.cache
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/bin/Debug/net5.0/JogadorFutebol
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/bin/Debug/net5.0/JogadorFutebol.deps.json
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/bin/Debug/net5.0/JogadorFutebol.runtimeconfig.json
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/bin/Debug/net5.0/JogadorFutebol.runtimeconfig.dev.json
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/bin/Debug/net5.0/JogadorFutebol.dll
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/bin/Debug/net5.0/ref/JogadorFutebol.dll
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/bin/Debug/net5.0/JogadorFutebol.pdb
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/obj/Debug/net5.0/JogadorFutebol.dll
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/obj/Debug/net5.0/ref/JogadorFutebol.dll
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/obj/Debug/net5.0/JogadorFutebol.pdb
+/home/strongtech/Desktop/Exercicios_Classes/JogadorFutebol/obj/Debug/net5.0/JogadorFutebol.genruntimeconfig.cache
